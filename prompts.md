@@ -11,4 +11,4 @@ Crie um conteúdo para meu ebook com este tema: "efeitos e mudanças positivas n
 
 ## Solicitação Adicional
 - Adicione exemplos engraçados em forma de código para ilustrar as páginas.
-- Crie uma última página de agradecimento ao meu pai, mãe, Gabriel e Débora, agradecendo pelo apoio e incentivo.
+- A última página agradecendo pelo apoio e incentivo foi feito por mim, e corrigido pela IA.

@@ -14,4 +14,4 @@ Confira os prompts utilizados na criação deste projeto no arquivo [prompts.md]
 ---
 
 ## ✨ Créditos
-Projeto desenvolvido com apoio familiar e com base em experiências reais e inspiradoras.
+Projeto desenvolvido para curso Criando um Ebook com ChatGPT & MidJourney do bootcamp TONNIE - Java and AI in Europe.
